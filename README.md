@@ -1,5 +1,5 @@
-### Time Series prediction with LSTM Neural Network with (Keras and Pytorch)
-### S&P 500 Stock Price Prediction 
+# TimeSeries prediction with LSTM Neural Network with (Keras and Pytorch)
+# S&P 500 Stock Price Prediction 
 
 1.  Detailed analysis of Stock prices as time-series data to find insights and findout best stocks among all the stocks
 
